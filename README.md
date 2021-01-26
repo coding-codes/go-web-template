@@ -1,2 +1,3 @@
 # go-web-template
-Template for go
+Go Web 开发较通用的脚手架模板
+
